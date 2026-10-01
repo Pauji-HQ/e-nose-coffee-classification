@@ -1,0 +1,13 @@
+# Name,      Type, SubType, Offset,   Size,     Flags
+# Tabel partisi dari teman Revi (offset dikosongkan = dihitung otomatis oleh
+# espflash/esptool, sudah pasti sejajar 0x10000 untuk partisi app). MENGGANTI
+# tabel offset-manual sebelumnya -- lebih aman karena tidak saya hitung sendiri.
+#
+# "factory" diisi oleh flash PERTAMA (cargo run dari komputer, lewat USB).
+# OTA berikutnya bergantian mengisi ota_0 lalu ota_1 lalu ota_0 lagi, dst.
+nvs,      data, nvs,     ,        0x4000,
+otadata,  data, ota,     ,        0x2000,
+phy_init, data, phy,     ,        0x1000,
+factory,  app,  factory, ,        2M,
+ota_0,    app,  ota_0,   ,        2M,
+ota_1,    app,  ota_1,   ,        2M,
