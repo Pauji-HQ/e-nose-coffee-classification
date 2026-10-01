@@ -105,12 +105,12 @@ e-nose-coffee-classification/
 │   ├── GUI_Preview_on_the_OTA_Page.png
 │   ├── GUI_Preview_on_the_Testing_Page.png
 │   └── Report_Preview.png
-├── Class_A/                       # Hardware schemas, sensor pinouts, and PCB layouts
-├── Class_C/                       # Rust desktop GUI source code and firmware client
-├── Class_A_Report_Document.pdf    # Comprehensive Hardware Engineering Report
-├── Class_C_Report_Document.pdf    # Comprehensive Software & Cloud Architecture Report
-├── LICENSE                        # MIT License
-└── README.md                      # Project documentation
+├── Class_A/                       
+├── Class_C/                       
+├── Class_A_Report_Document.pdf    
+├── Class_C_Report_Document.pdf    
+├── LICENSE                        
+└── README.md                      
 ```
 
 ---
