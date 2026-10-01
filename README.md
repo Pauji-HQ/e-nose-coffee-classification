@@ -118,10 +118,9 @@ e-nose-coffee-classification/
 ## Departmental Affiliation
 
 <p align="center">
-  <strong>Study Program of D4 Instrumentation Technology (TRI)</strong><br>
+  <strong>Study Program of D4 Instrumentation Technology</strong><br>
   Department of Instrumentation Engineering<br>
-  Faculty of Vocational Studies<br>
+  Faculty of Vocational<br>
   <strong>Institut Teknologi Sepuluh Nopember (ITS)</strong><br>
   Surabaya, Indonesia
 </p>
-```
