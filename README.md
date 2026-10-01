@@ -20,10 +20,10 @@ This cross-disciplinary engineering project was developed as a structured collab
 ### Engineering Teams
 | Role | Member | Student ID (NRP) | Class Cohort | Responsibility Scope |
 | :--- | :--- | :--- | :---: | :--- |
-| **Hardware Engineer** | Ahmadin Fatkhurahman | 2042241015 | Class A | Sensor array design, signal conditioning, chamber mechanics |
-| **Hardware Engineer** | Revi Azizu Rohman | 2042241029 | Class A | Embedded power supply, hardware layout, analog routing |
-| **Software Engineer** | Ilham Zain Muttaqin | 2042241003 | Class C | Cloud broker setup, Edge Impulse pipeline, OTA handler |
-| **Software Engineer** | Ahmad Fauzi Abdul Razzaq | 2042241017 | Class C | Rust desktop GUI development, FSM logic, PDF engine |
+| **Hardware Division** | Ahmadin Fatkhurahman | 2042241015 | Class A | Embedded systems programmer, Device assembler |
+| **Hardware Division** | Revi Azizu Rohman | 2042241029 | Class A | Sensor classification data collector, TinyML model trainer |
+| **Software Division** | Ilham Zain Muttaqin | 2042241003 | Class C | Cloud broker setup, Edge Impulse pipeline, OTA handler |
+| **Software Division** | Ahmad Fauzi Abdul Razzaq | 2042241017 | Class C | Rust desktop GUI development, FSM logic, PDF engine |
 
 ---
 
